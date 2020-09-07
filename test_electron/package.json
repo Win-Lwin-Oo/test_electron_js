@@ -4,7 +4,6 @@
   "description": "test electron development",
   "main": "main.js",
   "scripts": {
-    "test": "test_electrondev",
     "start": "electron ."
   },
   "keywords": [
